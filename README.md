@@ -1,5 +1,7 @@
 ### Hi there 👋
+Welcome to my Github profile.
 
+I am an aspiring Data Engineer who is also driven by curiosity. I have utilised  python, pandas, pyspark, mongodb ,SQL etc in implementing projects that I think are somewhat reflective of actual workload in a professional environment.
 <!--
 **PrathameshTanavade/PrathameshTanavade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
