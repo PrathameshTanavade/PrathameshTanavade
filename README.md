@@ -8,8 +8,8 @@ Below is the structure of my GITHUB Repositories
 [##Data Engineering](https://github.com/PrathameshTanavade/Data-Engineering)
 
 1. [Python](https://github.com/PrathameshTanavade/Data-Engineering/tree/main/python)
-    1.1. [CSV to JSON](https://github.com/PrathameshTanavade/Data-Engineering/tree/main/python/csv-json)
-    1.2. [CSV to PostgreSQL](https://github.com/PrathameshTanavade/Data-Engineering/tree/main/python/csv%20to%20postgrel)
+   1. [CSV to JSON](https://github.com/PrathameshTanavade/Data-Engineering/tree/main/python/csv-json)
+   2. [CSV to PostgreSQL](https://github.com/PrathameshTanavade/Data-Engineering/tree/main/python/csv%20to%20postgrel)
     1.3. [JSON to MongoDB](https://github.com/PrathameshTanavade/Data-Engineering/tree/main/python/json%20to%20mongodb)
         1.4 [CSV to MongoDB](https://github.com/PrathameshTanavade/Data-Engineering/tree/main/python/csv-mongodb)
         1.5 [Excel to MongoDB](https://github.com/PrathameshTanavade/Data-Engineering/tree/main/python/excel-mongodb)
