@@ -21,7 +21,8 @@ Below is the structure of my **Data-Engineering** Repositories
    3. [Streaming JSON to MongoDB](https://github.com/PrathameshTanavade/Data-Engineering/tree/main/apache%20spark-%20pyspark/pyspark%20-%20streaming%20json%20to%20mongodb)
    4. [PostgreSQL to MongoDB](https://github.com/PrathameshTanavade/Data-Engineering/tree/main/apache%20spark-%20pyspark/postgresql-mongodb)
 
-
+**Backend Engineering**
+1. [FastAPI - First APP - MongoDB](https://github.com/PrathameshTanavade/Backend-Engineering/tree/master/API/python/mongodb-with-fastapi)
 
 
 
