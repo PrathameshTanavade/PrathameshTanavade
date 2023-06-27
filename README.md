@@ -6,11 +6,11 @@ I am an aspiring Data Engineer who is also driven by curiosity. I have utilised 
 Below is the structure of my **Data-Engineering** Repositories 
 
 **[Data Engineering](https://github.com/PrathameshTanavade/Data-Engineering)**
-1.[Data Pipelines](https://github.com/PrathameshTanavade/Data-Engineering/tree/master/Data-Pipelines)
+1. [Data Pipelines](https://github.com/PrathameshTanavade/Data-Engineering/tree/master/Data-Pipelines)
    
-   1.[Trending Twitter Hashtags](https://github.com/PrathameshTanavade/Data-Engineering/tree/master/Data-Pipelines/trending-twitter-hastags)
+   1. [Trending Twitter Hashtags](https://github.com/PrathameshTanavade/Data-Engineering/tree/master/Data-Pipelines/trending-twitter-hastags)
    
-   2.[Satellite Communication Data Analytics Pipeline](https://github.com/PrathameshTanavade/Data-Engineering/tree/master/Data-Pipelines/satellite-communications-data-analytics-pipeline)
+   2. [Satellite Communication Data Analytics Pipeline](https://github.com/PrathameshTanavade/Data-Engineering/tree/master/Data-Pipelines/satellite-communications-data-analytics-pipeline)
 
   
 2. [Apache PySpark](https://github.com/PrathameshTanavade/Data-Engineering/tree/main/apache%20spark-%20pyspark)
