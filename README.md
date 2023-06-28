@@ -1,7 +1,7 @@
 ## Hi there 👋
 Welcome to my Github profile.
 
-I am a Data Engineer driven by curiosity. I have utilised  python, pandas, pyspark, mongodb ,SQL etc in implementing projects that I think are somewhat reflective of actual workload in a professional environment.
+
 
 Below is the structure of my **Data-Engineering** Repositories 
 
